@@ -10,6 +10,8 @@ See also: [macOS Classic Theme for VS Code](https://marketplace.visualstudio.com
 curl -sSL https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/install | bash
 ```
 
+Or manually download [macos-classic.json](https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/macos-classic.json) and put it into `~/.config/zed/themes/` folder.
+
 ## Screenshot
 
 ### Light
