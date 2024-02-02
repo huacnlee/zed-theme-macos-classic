@@ -1,3 +1,3 @@
 mkdir -p ~/.config/zed/themes
-curl --fail --silent -L https://github.com/huacnlee/zed-theme-macos-classic/blob/main/macos-classic.json -o ~/.config/zed/themes/macos-classic.json
+curl --fail --silent -L https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/macos-classic.json -o ~/.config/zed/themes/macos-classic.json
 echo "Theme installed to ~/.config/zed/themes/macos-classic.json"
