@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "macOS Classic Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#DCDBDA",
         "border.variant": "#DCDBDA",
