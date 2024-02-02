@@ -4,6 +4,12 @@ A macOS native style theme for [Zed](https://zed.dev), let it same like native a
 
 See also: [macOS Classic Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic)
 
+## Installation
+
+```bash
+curl -sSL https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/install | bash
+```
+
 ## Screenshot
 
 ### Light
