@@ -16,15 +16,15 @@ Or manually download [macos-classic.json](https://raw.githubusercontent.com/huac
 
 ### Light
 
-![SCR-20240129-ej7](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/ae002997-b346-49ec-936e-ee60e8403a8b)
+![SCR-20240204-edk](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/af411d67-0679-4458-a0af-86ba3ed6dc32)
 
 ### Dark
 
-![SCR-20240129-eiy](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/c99b05b7-f33d-42a8-a4c4-22030fdbf2e1)
+![SCR-20240204-edr](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/cb763f4a-8871-497f-94a3-2399e6c8fce7)
 
 ### Dark2
 
-![SCR-20240129-ejd](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/e511146e-755b-43c5-a1b0-5a42361e9304)
+![SCR-20240204-edx](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/3ae356da-3050-4a59-ba21-6fa32443631a)
 
 ## Development
 
