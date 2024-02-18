@@ -1,0 +1,5 @@
+Export theme from VS Code.
+
+```bash
+$ cargo run -p theme_importer ~/.vscode/extensions/huacnlee.theme-macos-classic-1.7.1/theme/macOS-classic.json > light.json
+```

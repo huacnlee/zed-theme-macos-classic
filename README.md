@@ -4,14 +4,6 @@ A macOS native style theme for [Zed](https://zed.dev), let it same like native a
 
 See also: [macOS Classic Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic)
 
-## Installation
-
-```bash
-curl -sSL https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/install | bash
-```
-
-Or manually download [macos-classic.json](https://raw.githubusercontent.com/huacnlee/zed-theme-macos-classic/main/macos-classic.json) and put it into `~/.config/zed/themes/` folder.
-
 ## Screenshot
 
 ### Light
@@ -25,14 +17,6 @@ Or manually download [macos-classic.json](https://raw.githubusercontent.com/huac
 ### Dark2
 
 ![SCR-20240204-edx](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/3ae356da-3050-4a59-ba21-6fa32443631a)
-
-## Development
-
-Export theme from VS Code.
-
-```bash
-$ cargo run -p theme_importer ~/.vscode/extensions/huacnlee.theme-macos-classic-1.7.1/theme/macOS-classic.json > light.json
-```
 
 ## License
 
