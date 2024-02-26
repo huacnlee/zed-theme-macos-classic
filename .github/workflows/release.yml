@@ -1,5 +1,7 @@
 on:
   push:
+    branches:
+      - "test-ci"
     tags:
       - "v*"
 
@@ -8,9 +10,11 @@ jobs:
     name: Release Zed Extension
     runs-on: ubuntu-latest
     steps:
-      - uses: huacnlee/zed-extension-action@v1
+      - uses: huacnlee/zed-extension-action@update-submodule
         with:
           extension-name: macos-classic
           push-to: huacnlee/zed-extensions
+          create-pullrequest: false
+          tag-name: v0.0.4-beta1
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
