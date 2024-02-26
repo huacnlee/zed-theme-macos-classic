@@ -139,7 +139,7 @@
         "players": [],
         "syntax": {
           "attribute": {
-            "color": "#0000A2",
+            "color": "#957931",
             "font_style": null,
             "font_weight": null
           },
@@ -225,6 +225,16 @@
           },
           "type": {
             "color": "#6f42c1",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable": {
+            "color": "#333333",
             "font_style": null,
             "font_weight": null
           }
