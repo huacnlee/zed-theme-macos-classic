@@ -22,7 +22,8 @@ See also: [macOS Classic Theme for VS Code](https://marketplace.visualstudio.com
 
 - [Zed Theme](https://github.com/huacnlee/zed-theme-macos-classic)
 - [VS Code Theme](https://github.com/huacnlee/vscode-macos-classic.theme)
-- [Wrap Theme](https://github.com/huacnlee/wrap-theme-macos-classic)
+- [Warp Theme](https://github.com/huacnlee/warp-theme-macos-classic)
+
 
 ## License
 
