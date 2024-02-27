@@ -18,6 +18,12 @@ See also: [macOS Classic Theme for VS Code](https://marketplace.visualstudio.com
 
 ![SCR-20240204-edx](https://github.com/huacnlee/zed-theme-macos-classic/assets/5518/3ae356da-3050-4a59-ba21-6fa32443631a)
 
+## Other Tools Themes
+
+- [Zed Theme](https://github.com/huacnlee/zed-theme-macos-classic)
+- [VS Code Theme](https://github.com/huacnlee/vscode-macos-classic.theme)
+- [Wrap Theme](https://github.com/huacnlee/wrap-theme-macos-classic)
+
 ## License
 
 MIT
