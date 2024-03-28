@@ -1,7 +1,0 @@
-{
-  "name": "macOS Classic Theme",
-  "version": "0.0.5",
-  "authors": ["Jason Lee <huacnlee@gmail.com>"],
-  "description": "A macOS native style theme for Zed, let it same like native app in macOS.",
-  "repository": "https://github.com/huacnlee/zed-theme-macos-classic"
-}

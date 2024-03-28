@@ -1,5 +1,20 @@
-Export theme from VS Code.
+# Development
+
+## Edit theme
+
+You can edit the installed theme for development.
 
 ```bash
-$ cargo run -p theme_importer ~/.vscode/extensions/huacnlee.theme-macos-classic-1.7.1/theme/macOS-classic.json > light.json
+$ zed ~/Library/Application\ Support/Zed/extensions/installed/macos-classic/
 ```
+
+When you modifed the theme, Zed will reload the theme automatically.
+
+After you finish the development, you can copy the `macos-classic.json` contents to this project.
+
+## Release Extension
+
+1. Update version in `extension.toml`.
+2. Create a tag with the version number.
+3. Push the tag to the repository, then the GitHub Actions will make PR to [Zed extensions](https://github.com/zed-industries/extensions).
+4. Wait for the PR to be merged, then the new version will be released.
