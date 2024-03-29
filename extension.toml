@@ -1,6 +1,6 @@
 id = "macos-classic"
 name = "macOS Classic Theme"
-description = "A macOS native style theme for Zed, let it same like native app in macOS."
+description = "A macOS native style theme, let it same like native app in macOS."
 version = "0.0.6"
 schema_version = 1
 authors = ["Jason Lee <huacnlee@gmail.com>"]
