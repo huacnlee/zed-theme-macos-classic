@@ -252,6 +252,11 @@
             "color": "#333333",
             "font_style": null,
             "font_weight": null
+          },
+          "variable.special": {
+            "color": "#C5060B",
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
@@ -493,6 +498,11 @@
           },
           "type": {
             "color": "#A86D3B",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.special": {
+            "color": "#E19773",
             "font_style": null,
             "font_weight": null
           }
@@ -738,6 +748,9 @@
             "color": "#D73737",
             "font_style": null,
             "font_weight": null
+          },
+          "variable.special": {
+            "color": "#AE9513"
           }
         }
       }
