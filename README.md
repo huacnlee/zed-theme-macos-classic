@@ -12,11 +12,7 @@ A macOS native style theme for [Zed](https://zed.dev), let it same like native a
 
 ### Dark
 
-![SCR-20240204-edr](https://github.com/user-attachments/assets/03c62d7f-f50c-4400-ae7a-0474cbb37654)
-
-### Dark2
-
-![SCR-20240204-edx](https://github.com/user-attachments/assets/ae67b178-effb-4a2b-b4c3-c04cd2fa9877)
+![SCR-20240204-edr](https://github.com/user-attachments/assets/d87bea56-aa6d-4c86-acfc-87f91624f8a7)
 
 ## Usage
 
